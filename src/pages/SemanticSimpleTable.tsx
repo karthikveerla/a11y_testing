@@ -1,9 +1,6 @@
 const SemanticSimpleTable = () => (
   <div>
     <h1 className="text-2xl font-bold mb-4">Semantic Simple Table</h1>
-    <div className="bg-green-500 text-white p-8 text-center text-4xl font-bold">
-      Hello Tailwind! If you see me styled, it works!
-    </div>
     <table id="semanticTable" className="table-auto border w-full">
       <caption className="caption-top text-gray-700 font-semibold">Employee Performance Q1</caption>
       <thead className="bg-gray-200">
