@@ -2,7 +2,7 @@ const SemanticSimpleTable = () => (
   <div>
     <h1 className="text-2xl font-bold mb-4">Semantic Simple Table</h1>
     <table id="semanticTable" className="table-auto border w-full">
-      <caption className="caption-top text-gray-700 font-semibold">Employee Performance Q1</caption>
+      {/* <caption className="caption-top text-gray-700 font-semibold">Employee Performance Q1</caption> */}
       <thead className="bg-gray-200">
         <tr>
           <th className="border px-4 py-2">Name</th>
