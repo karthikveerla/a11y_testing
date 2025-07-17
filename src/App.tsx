@@ -1,4 +1,5 @@
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
+
 import SemanticSimpleTable from './pages/SemanticSimpleTable';
 import SemanticComplexTable from './pages/SemanticComplexTable';
 import LayoutTable from './pages/LayoutTable';
